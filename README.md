@@ -23,7 +23,7 @@ Here are some of my notable projects:
 
 ## 🌱 I’m currently learning
 
-I'm currently working on improving my skills in **Langchain** and integrations with **artificial intelligence**.
+I'm currently working on improving my skills in **Langchain** and integrations with **artificial intelligence**. I am also working on enhancing my skills in network analysis, incident response and other tasks required in cyberoperations.
 
 ## 🤝 I’m open to collaboration
 
