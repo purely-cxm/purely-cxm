@@ -1,16 +1,3 @@
-/*
-
-Name: Cameron Portis
-G Number: G01409543
-Assignment: HW#3
-
-Description: This code is designed to take in a decimal valued input then convert that into it's
-corrosponding hexadecimal, binary, and octal variations. The user is then prompted with the option to save
-this report into a new file. If so, the file is created and the information is input in addition to the current time,
-and the user's name.
-
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
@@ -24,17 +11,17 @@ void decimalToBinary(int decValue, char binString[]);
 void decimalToHex(int decValue, char hexString[]);
 void decimalToOctal(int decValue, char octString[]);
 
-char *getDateAndTime();
-
 int saveFile(char name[], char date[], int decimalValue, char octalString[],
         char hexaString[], char binaryString[]);
 /*Promp the user whether the output should be saved to a text file. If the
-user replies in yes, a name for the text file is requested. The newly
+user replies in the affirmative, a name for the text file is requested. The newly
 created text file will contain the user's name, current date, and output
 results. If the output file cannot be opened, print an appropriate error
 message and return 0. Otherwise return 1. */
 
+/*Main Method*/
 int main(){
+        /*Initializations and Declarations*/
         char dateTime[32];
         char user_name[32];
         int decVal = 0;
