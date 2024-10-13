@@ -13,7 +13,7 @@ Here are some of the technologies and tools I frequently work with:
 ## 🌟 Featured Projects
 
 Here are some of my notable projects:
-(Please note some of the code for my projects is proprietary and is therfore not available for public viewing)
+(Please be advised that certain projects in my portfolio are proprietary and not available for public viewing.)
 
 1. **Large Language Models for Alert Investigation**  
    Led the development of a cutting-edge application using OpenAI's API and a large language model architecture based on retrieval-augmented generation to address alert fatigue in security operations centers. The project focused on enhancing the efficiency of log data analysis and exploring the limitations of these advanced models in the alert investigation process.
