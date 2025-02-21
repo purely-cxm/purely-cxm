@@ -1,6 +1,6 @@
 # Hi, I'm Cameron Portis 👋
 
-Welcome to my GitHub profile! I'm an Undergraduate Cybersecurity Engineering Intern with a passion for developing innovative tools and incorporating the latest technologies to enhance the cybersecurity landscape.
+Welcome to my GitHub profile! I'm an Undergraduate Cybersecurity Engineering Intern with a passion for developing innovative tools and incorporating the latest technologies to enhance the cybersecurity landscape and elevate the entire security enterprise.
 
 ## 🔧 Technologies & Tools
 
